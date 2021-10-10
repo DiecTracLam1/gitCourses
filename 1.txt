@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 register here 
+=======
+code tu Test
+>>>>>>> test
