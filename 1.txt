@@ -1,5 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 register here 
 =======
 code tu Test
 >>>>>>> test
+=======
+
+register here 
+code tu Tes
+>>>>>>> 0ff440b5ca7632a287b90ba77c1dc5302579fbd5
